@@ -40,7 +40,7 @@ Send !status to any kind of chat to check whether bot is alive.
 
 🎥 Tutorial Video (will be added soon)   
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/MemberCounterMeta)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletipsalltestings/MemberCounterMeta)
   
 ## Versions
 - 1.0 Meta  
